@@ -1,9 +1,9 @@
 Chat
 ====
 
-Chat system using server/client model. 
-C++ implementation using Qt framework.
-Needs Qt networking and UI libraries to run
+<br>Chat system using server/client model. </br>
+<br>C++ implementation using Qt framework. </br>
+<br>Needs Qt networking and UI libraries to run</br>
 
 
 TO DO
