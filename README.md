@@ -6,8 +6,8 @@ Chat
 <br>Needs Qt networking and UI libraries to run</br>
 
 
-TO DO
-+++++
+<br>TO DO</br>
+<br>+++++</br>
 
 <br>->Set specific port for clients to communicate with</br>
 <br>->prevent sender to receive back sent message</br>
